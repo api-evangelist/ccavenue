@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CCAvenue provides digital payment solutions and platforms in India and globally, offering services such as online payments, payment gateway, invoice payments, B2Biz collections, subscriptions, storefronts, tokenisation, finance, forms, AI-driven commerce, POS and more. It serves sellers and buyers across multiple countries, enabling secure, multi‑channel transactions for businesses of all sizes.
+CCAvenue provides digital payment solutions and platforms in India, offering services such as payment gateway, invoice payments, subscriptions, storefront, token pay, and commerce AI. It serves merchants across various sectors, enabling online transactions, recurring billing, and integrated payment experiences. The company emphasizes security, compliance, and a range of payment options for businesses of all sizes.
 
-**Areas:** Company · Payment · Gateway · FinTech · India · ECommerce
+**Areas:** Company · Payments · FinTech · India · ECommerce
 
 ## CCAvenue on APIs.io
 
@@ -104,25 +104,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 22.8** — emerging · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 26.3** — thin · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
 | Discoverability | 44.6 |
 | Contract quality | 0.0 |
 | Contract governance | 16.4 |
-| Operational transparency | 14.3 |
+| Operational transparency | 15.8 |
 | Developer ergonomics | 21.4 |
-| Access clarity | 53.6 |
+| Access clarity | 66.3 |
 
-**Agent readiness 0.0** — human-only
+**Agent readiness 3.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | — |
+| MCP Server | documented (partial credit) |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -142,7 +142,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 16.1** — Payments
+**Regulatory alignment 21.4** — Payments
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ccavenue/](https://apis.io/providers/ccavenue/).
 
